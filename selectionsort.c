@@ -5,7 +5,7 @@
  *     struct ListNode *next;
  * };
  */
-struct ListNode* insertionSortList(struct ListNode* head) {
+struct ListNode* selecttionSortList(struct ListNode* head) {
     struct ListNode *ptr,*search,*index;
     int tmp;
     ptr = head;
